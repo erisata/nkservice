@@ -1,6 +1,6 @@
 {application, nkservice, [
     {description, "NetComposer Service Framework"},
-    {vsn, "v0.2.0"},
+    {vsn, git},
     {modules, []},
     {registered, []},
     {mod, {nkservice_app, []}},
